@@ -8,18 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+My program displays certain numbers related to school and after these set numbers are shown, math is already done for the viewer to see a broken down version of what they pay. The last line is the random piece of code that is generated to show a viewer that is what they are. They are either Healthy, Timeful, Wealthy, Powerful, or Knowledgeable.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment:  0 
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I was able to complete all parts
 
 ## REFERENCES:
- < List any outside resources used >
+ https://www.geeksforgeeks.org/python-list/
+ I used this website to understand how to create the list for part B  (Line 19).
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None
